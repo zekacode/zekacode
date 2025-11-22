@@ -22,35 +22,41 @@
 
 ### 👨‍💻 About Me
 
-I'm an Undergraduate Informatics Management student with a deep passion for bringing ideas to life through code. My primary focus is on **Mobile Development** using Flutter and **Game Development** with C# in Unity.
+I'm an Undergraduate Informatics Management student passionate about bringing ideas to life through code. I have evolved into a versatile developer with a focus on **AI Engineering, Game Development, Mobile/Web Programming, and UI/UX Design**.
 
-For me, the thrill of development comes from the challenge itself—I love the adrenaline rush of hunting down a tricky bug and the immense satisfaction of making everything work seamlessly.
+Whether it's training an AI model, scripting game mechanics in C#, or crafting a pixel-perfect UI for a mobile app, I enjoy every part of the process.
 
-- 🌱 I’m currently sharpening my skills in **Flutter** and **Unity**.
-- 🔭 I’m currently working on personal projects to build a strong portfolio.
-- 🤝 I’m looking for opportunities to **collaborate** on exciting mobile or game projects.
+- 🌱 I’m currently expanding my stack in **Laravel, Flutter, Unity, and AI technologies**.
+- 🔭 I’m building personal projects that combine **intelligent backends with engaging frontends**.
+- 🤝 I’m looking for opportunities to contribute to innovative teams as a developer or designer.
 - ⚡ Fun fact: Finding and fixing a bug gives me more energy than a cup of coffee!
-
+- 
 ---
 
 ### 🛠️ My Tech Stack & Tools
 
-#### Mobile & Backend
+#### 📱 Mobile & 🌐 Web Development
 <p>
+  <!-- Mobile -->
   <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
   <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
+  <!-- Web & Backend -->
+  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
+  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
   <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
 </p>
 
-#### Game Development
+#### 🤖 AI & 🎮 Game Development
 <p>
+  <!-- AI  -->
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <!-- Game Dev -->
   <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/></a>
 </p>
 
-#### Design & Other Tools
+#### 🎨 Design & Tools
 <p>
   <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
