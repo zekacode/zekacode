@@ -30,7 +30,7 @@ Whether it's training an AI model, scripting game mechanics in C#, or crafting a
 - 🔭 I’m building personal projects that combine **intelligent backends with engaging frontends**.
 - 🤝 I’m looking for opportunities to contribute to innovative teams as a developer or designer.
 - ⚡ Fun fact: Finding and fixing a bug gives me more energy than a cup of coffee!
-- 
+
 ---
 
 ### 🛠️ My Tech Stack & Tools
