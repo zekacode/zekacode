@@ -1,12 +1,13 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-    Hi there, I'm Putrawin
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-wave.gif?1531849430" width="30"/>
-  </h1>
-</div>
-
 <div align="center">
+  
+  <!-- Animasi Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=79C0FF&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Putrawin;AI+Engineer+%26+Game+Dev;Mobile+%26+Web+Developer;UI%2FUX+Enthusiast" alt="Typing SVG" />
+
+  <p>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
+  </p>
+
+  <!-- Social Media Badges -->
   <a href="https://www.linkedin.com/in/putrawin-adha-muzakki/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -29,55 +30,43 @@ Whether it's training an AI model, scripting game mechanics in C#, or crafting a
 - 🌱 I’m currently expanding my stack in **Laravel, Flutter, Unity, and AI technologies**.
 - 🔭 I’m building personal projects that combine **intelligent backends with engaging frontends**.
 - 🤝 I’m looking for opportunities to contribute to innovative teams as a developer or designer.
-- ⚡ Fun fact: Finding and fixing a bug gives me more energy than a cup of coffee!
+- ⚡ **Fun fact:** Finding and fixing a bug gives me more energy than a cup of coffee!
 
 ---
 
 ### 🛠️ My Tech Stack & Tools
 
-#### 📱 Mobile & 🌐 Web Development
-<p>
-  <!-- Mobile -->
-  <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
-  <a href="#"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>
-  <!-- Web & Backend -->
-  <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></a>
-  <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
-  <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
-  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-</p>
+<div align="center">
 
-#### 🤖 AI & 🎮 Game Development
-<p>
-  <!-- AI  -->
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <!-- Game Dev -->
-  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
-  <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"/></a>
-</p>
+| **Mobile & Web** | **AI & Game Dev** | **Languages** |
+|:---:|:---:|:---:|
+| <img height="40" src="https://skillicons.dev/icons?i=flutter,dart,laravel,php"/> | <img height="40" src="https://skillicons.dev/icons?i=unity,cs,python,tensorflow"/> | <img height="40" src="https://skillicons.dev/icons?i=go,ts,js,html,css"/> |
 
-#### 🎨 Design & Tools
-<p>
-  <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-</p>
+| **Design & Tools** |
+|:---:|
+| <img height="40" src="https://skillicons.dev/icons?i=figma,git,github,vscode,postman"/> |
+
+</div>
 
 ---
 
 ### 📊 My GitHub Stats
 
 <div align="center">
+  <!-- Streak Stats (Menambah kesan aktif) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zekacode&theme=tokyonight&hide_border=true" alt="Zekacode's Streak" />
+  <br/><br/>
+  
+  <!-- Main Stats (Sudah diperbaiki tanpa count_private) -->
   <img src="https://github-readme-stats.vercel.app/api?username=zekacode&show_icons=true&theme=tokyonight&hide_border=true" alt="Zekacode's GitHub Stats"/>
   <br/>
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekacode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Zekacode's Top Languages"/>
 </div>
 
----
+<br/>
 
-<!-- 
-Thanks for checking out my profile!
-The portfolio link from Figma prototype can be long and sometimes doesn't embed well.
-If you have a deployed website later, you can add it here.
-For now, you can link it like this:
-[Check out my Portfolio on Figma](https://www.figma.com/proto/MzvYDpCYxNeDuJWFvJOj0G/MyPortfolio?node-id=246-75&node-type=canvas&t=cFKLqUVzaLR5eotY-1&scaling=scale-down-width&content-scaling=fixed&page-id=127%3A184)
--->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
