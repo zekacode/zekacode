@@ -67,7 +67,7 @@ Whether it's training an AI model, scripting game mechanics in C#, or crafting a
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zekacode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zekacode's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zekacode&show_icons=true&theme=tokyonight&hide_border=true" alt="Zekacode's GitHub Stats"/>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zekacode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Zekacode's Top Languages"/>
 </div>
